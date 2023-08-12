@@ -1,14 +1,14 @@
 
-/[Ll]ibrary
-/[Tt]emp
-/[Oo]bj
-/[Bb]uild
-/[Bb]uilds
-/_Build
-/.idea
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/_Build/
+/.idea/
 
-/Plugins
-/TutorialInfo
+/Plugins/
+/TutorialInfo/
 /[Pp]rojectSettings/ProjectVersion.txt
 
 
