@@ -4,6 +4,11 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/_Build/
+/.idea/
+/Assets/_Assets/
+/Assets/Plugins/
+/Assets/TutorialInfo/
 /[Pp]rojectSettings/ProjectVersion.txt
 
 
