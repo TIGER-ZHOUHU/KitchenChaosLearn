@@ -8,4 +8,5 @@ YouTube CODEMONKEY学习
 1.自定义修改游戏时间 \
 2.给每个Recipe添加了分数\
 3.添加了gameScene的总分数显示\
-4.提交菜品后的得分显示UI
+4.提交菜品后的得分显示UI\
+5.添加了一个语言聊天Scene
